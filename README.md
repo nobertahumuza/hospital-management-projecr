@@ -1,1 +1,1 @@
-# hospital-management-projecr
+# hospital-management-project
